@@ -1,0 +1,25 @@
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin-bottom: 15px;
+	text-decoration: strong;
+	background-color: black;
+	color: white;
+	font-family: Georgia, Arial, Serif;
+	margin-top: 0px;
+}
+
+h2 {
+	font-size: 40px;
+	text-align: left;
+	font-family: Georgia, Arial, Serif;
+
+}
+
+img {
+	float-left;
+}
+
+body {
+	background-color: #b38b6d;
+}
