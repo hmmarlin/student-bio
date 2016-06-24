@@ -1,25 +1,42 @@
 h1 {
-	font-size: 60px;
+	font-size: 40px;
 	text-align: center;
-	margin-bottom: 15px;
-	text-decoration: strong;
+	margin-bottom: 0px;
 	background-color: black;
-	color: white;
+	color: #efeee7;
 	font-family: Georgia, Arial, Serif;
 	margin-top: 0px;
 }
 
-h2 {
-	font-size: 40px;
-	text-align: left;
-	font-family: Georgia, Arial, Serif;
+body {
+	background-color: #efeee7;
+}
 
+.about {
+	font-family: Georgia, Arial, Serif;
+	float:left;
+	width: 700px;
+	background-color: #efeee7;
+	padding-left: 40px;
 }
 
 img {
-	float-left;
+	float: left;
 }
 
-body {
-	background-color: #b38b6d;
+.contact {
+	font-family: Georgia, Arial, Serif;
+	float:left;
+	width: 300px;
+	background-color: #efeee7;
+	padding-left: 40px;
+}
+
+p {
+	font-family: Georgia, Arial, Serif;
+	margin-left:250px;
+}
+
+a {
+	color:#d24b6e;
 }
